@@ -1,0 +1,9 @@
+<plugin name='test-plugin' version='0.1' grailsVersion='2.3 &gt; *'>
+  <author>Your name</author>
+  <title>Test Plugin Plugin</title>
+  <description>Brief summary/description of the plugin.
+</description>
+  <documentation>http://grails.org/plugin/test-plugin</documentation>
+  <type>TestPluginGrailsPlugin</type>
+  <resources />
+</plugin>
